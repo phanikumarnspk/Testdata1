@@ -1,0 +1,11 @@
+import java.until.*
+
+public class Test{
+	public void Testdata()
+	{
+		Syso("TestData method");
+
+	}
+	
+
+}
