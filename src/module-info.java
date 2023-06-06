@@ -1,0 +1,2 @@
+module SAmpleTest {
+}
